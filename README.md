@@ -16,6 +16,7 @@ Spotify embeds (public links)
 
 
 ## 🔧 Project Structure
+```text
 src/
 ├── App.jsx                  # Main UI
 ├── components/
